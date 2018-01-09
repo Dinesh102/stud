@@ -1,0 +1,5 @@
+com\kgfsl\controller\StudentDaoImpl.class
+com\kgfsl\model\Student.class
+com\kgfsl\controller\StudentDao.class
+com\kgfsl\stud\App.class
+com\kgfsl\view\DaoPatternDemo.class
